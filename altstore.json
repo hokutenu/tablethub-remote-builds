@@ -1,0 +1,26 @@
+{
+ "name": "Best TV Remote",
+ "identifier": "app.playkiko.btr.source",
+ "apps": [
+  {
+   "name": "Best TV Remote",
+   "bundleIdentifier": "com.tejas.tablethubRemote",
+   "developerName": "Kiko's Studio",
+   "subtitle": "One remote for every TV",
+   "localizedDescription": "Remote for Apple TV, Roku, Google TV, Samsung, LG and Vizio.",
+   "iconURL": "https://raw.githubusercontent.com/hokutenu/tablethub-remote-builds/main/icon.png",
+   "tintColor": "#E5A00D",
+   "versions": [
+    {
+     "version": "1.0.141",
+     "buildVersion": "141",
+     "date": "2026-11-11T06:06:37Z",
+     "downloadURL": "https://raw.githubusercontent.com/hokutenu/tablethub-remote-builds/main/TabletHub-Remote.ipa",
+     "size": 10193754,
+     "minOSVersion": "15.0"
+    }
+   ]
+  }
+ ],
+ "news": []
+}
