@@ -1,0 +1,27 @@
+{
+  "name": "Best TV Remote",
+  "identifier": "app.playkiko.btr.source",
+  "apps": [
+    {
+      "name": "Best TV Remote",
+      "bundleIdentifier": "com.tejas.tablethubRemote",
+      "developerName": "Kiko's Studio",
+      "subtitle": "One remote for every TV",
+      "localizedDescription": "Remote for Apple TV, Roku, Google TV, Samsung, LG and Vizio.",
+      "iconURL": "https://raw.githubusercontent.com/hokutenu/tablethub-remote-builds/main/icon.png",
+      "tintColor": "#E5A00D",
+      "versions": [
+        {
+          "version": "1.0.145",
+          "buildVersion": "145",
+          "date": "2026-11-25T23:08:29Z",
+          "downloadURL": "https://raw.githubusercontent.com/hokutenu/tablethub-remote-builds/main/TabletHub-Remote.ipa",
+          "size": 12619378,
+          "minOSVersion": "15.0",
+          "localizedDescription": "Lock screen: TV volume buttons, keeps up with what's playing for a bit after you lock. Phone volume buttons work again after the guide's voice. No flicker when you reopen."
+        }
+      ]
+    }
+  ],
+  "news": []
+}
